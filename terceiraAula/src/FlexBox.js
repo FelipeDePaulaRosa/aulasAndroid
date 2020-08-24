@@ -22,7 +22,6 @@ const styles = StyleSheet.create({
         width: '80%',
         marginTop: '60%',
         marginBottom: '60%',
-        paddingHorizontal: 15,
         justifyContent: "space-around"
     }
 })
