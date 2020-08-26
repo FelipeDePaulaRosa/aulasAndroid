@@ -1,2 +1,2 @@
 # aulasAndroid
-Em cada subpasta contem as atividades realizada nas aulas
+Em cada pasta contém os Projetos das Aulas e Atividades de Fixação
