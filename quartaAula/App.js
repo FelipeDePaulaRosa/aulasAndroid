@@ -1,14 +1,15 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import Calculadora from './src/CalculadoraClasse'
+import Quadrado from './src/FlexBox'
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Calculadora></Calculadora>
+      {/* <Text>Aula 3</Text> */}
       <StatusBar style="auto" />
-    </View>
+      <Quadrado></Quadrado>
+     </View>
   );
 }
 
